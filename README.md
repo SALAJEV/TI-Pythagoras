@@ -1,7 +1,10 @@
 # SALAVATOR
-Dit is een Nederlandstalige programma voor TI-84 Plus en TI-84 Plus CE-T die ervoor zorgt dat je de stelling van Pythagoras in je rekenmachine hebt staat in tekst. Daarnaast heb je ook de formule van de stelling. Je kan ook met de programma zonder de formule te gebruiken een berekening doen door te selecteren welke zijde je zoekt en dan de gevraagde gegevens in te vullen. 
-Om dit programma te instaleren op het rekentoestel, heb je de rekenmachine, een mini-USB naar USB kabel en een computer met TI Connect CE nodig. Je kan daar makkelijk het programma naar de rekenmachine overdragen zodat u die kan gebruiken. Het bestand kan enkel worden geopend als het in de RAM staat. Deze programma werkt niet goed als je het opent via Cesium, open het programma via [prgm] maar dit zal later bij updates gefixt worden. 
+Dit is een Nederlandstalig programma voor de TI-84 Plus en TI-84 Plus CE-T rekenmachines dat ervoor zorgt dat de stelling van Pythagoras in tekst wordt weergegeven. Het programma bevat ook de formule van de stelling. Daarnaast kun je met het programma een berekening uitvoeren door de te zoeken zijde te selecteren en de benodigde gegevens in te vullen.
 
-Bij vragen over het programma, kunt u de eigenaar contacteren via e-mail salajev@hotmail.com.
-TI-Connect CE download link: https://education.ti.com/nl/producten/computer-software/ti-connect-ce-sw
+Om het programma op de rekenmachine te installeren, heb je de rekenmachine, een mini-USB naar USB kabel en een computer met TI Connect CE nodig. Je kunt het programma eenvoudig overdragen naar de rekenmachine via TI Connect CE. Het programma kan alleen worden geopend als het in het RAM-geheugen van de rekenmachine staat. Het programma staat bij [prgm]. Het programma werkt niet goed als je het opent via Cesium, maar dit probleem zal in toekomstige updates worden opgelost. 
+
+Als je vragen hebt over het programma, kun je contact opnemen met de eigenaar via e-mail op salajev@hotmail.com.
+
+Download TI-Connect CE hier: https://education.ti.com/nl/producten/computer-software/ti-connect-ce-sw
+
 Onze site: https://bit.ly/salavator (tijdelijk onbereikbaar)
