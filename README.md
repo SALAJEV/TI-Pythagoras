@@ -1,6 +1,8 @@
 # SALAVATOR
 Welkom bij SALAVATOR! Dit programma is bedoeld voor gebruik op de TI-84 Plus en TI-84 Plus CE-T rekenmachines en toont de stelling van Pythagoras in tekstvorm. Het programma bevat ook de formule van de stelling en stelt je in staat een berekening uit te voeren door de zijde die je wilt berekenen te selecteren en de benodigde gegevens in te voeren.
 
+Recentste versie: 1.0
+
 Installatie-instructies:
 1. Download het bestand SALAVATOR 1.0.8xp naar je computer.
 2. Verbind de rekenmachine met de computer via een mini-USB naar USB-kabel.
