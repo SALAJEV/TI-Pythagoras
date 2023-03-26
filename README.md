@@ -10,6 +10,7 @@ Installatie-instructies:
 5. Zorg ervoor dat het programma zich in het RAM-geheugen van de rekenmachine bevindt.
 6. Het programma kan worden geopend via [prgm].
 Let op: het programma werkt momenteel niet goed als het wordt geopend via Cesium. Dit probleem zal worden opgelost in toekomstige updates.
+
 Als je vragen hebt over het programma, kun je contact opnemen met de eigenaar via e-mail op salajev@hotmail.com.
 
 Download TI-Connect CE hier: https://education.ti.com/nl/producten/computer-software/ti-connect-ce-sw
