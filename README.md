@@ -16,4 +16,4 @@ Als je vragen hebt over het programma, kun je contact opnemen met de eigenaar vi
 
 Download TI-Connect CE hier: https://education.ti.com/nl/producten/computer-software/ti-connect-ce-sw
 
-Link naar onze website: https://bit.ly/salvator. (momenteel niet bereikbaar)
+Link naar onze website: https://bit.ly/salavator. (momenteel niet bereikbaar)
