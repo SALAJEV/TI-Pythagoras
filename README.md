@@ -1,7 +1,7 @@
 # SALAVATOR TI Pythagoras
 Welkom bij ons project SALVATOR TI Pythagoras! Dit programma is bedoeld voor gebruik op de TI-84 Plus en TI-84 Plus CE-T rekenmachines en toont de stelling van Pythagoras in tekstvorm. Het programma bevat ook de formule van de stelling en stelt je in staat een berekening uit te voeren door de zijde die je wilt berekenen te selecteren en de benodigde gegevens in te voeren.
 
-Recentste versie: 1.0.3
+Recentste versie: 1.0.4
 
 ## Installatie-instructies:
 1. Download het bestand SALAVATOR_TI_Pythagoras_v***.8xp naar je computer. (We raden je aan om de nieuwste versie te gebruiken.)
@@ -15,5 +15,3 @@ Let op: het programma werkt momenteel niet goed als het wordt geopend via Cesium
 Als je vragen hebt over het programma, kun je contact opnemen met de eigenaar via e-mail op salajev@hotmail.com.
 
 Download TI-Connect CE hier: https://education.ti.com/nl/producten/computer-software/ti-connect-ce-sw
-
-Link naar onze website: https://bit.ly/salavator-ti.
